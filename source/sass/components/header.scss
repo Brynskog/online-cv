@@ -1,0 +1,32 @@
+.header{
+  background-color: $color-primary-0;
+  padding: 20px 36px;
+  position: fixed;
+  width: calc(100% - 36px);
+
+  h1{
+    @extend .header-big;
+    color: $color-white;
+    width: 100%;
+    display: inline-block;
+  }
+
+  p{
+    @extend .text-big;
+    color: $color-white;
+    width: 20%;
+    display: inline-block;
+
+    @media screen and (max-width: $desktop){
+      width: 100%;
+    }
+  }
+}
+
+ul.header__contact-list{
+  float: right;
+
+  @media screen and (max-width: $desktop){
+    display: none;
+  }
+}

@@ -1,0 +1,19 @@
+.content{
+  padding: 173px 20px 0 36px;
+  width: calc(75% - 56px);
+  float: left;
+
+  @media all and (max-width: $desktop){
+    width: calc(100% - 72px);
+  }
+
+  @media all and (max-width: $tablet){
+    padding: 173px 20px 0;
+    width: calc(100% - 40px);
+  }
+
+  @media all and (max-width: $mobile){
+    padding: 173px 15px 0;
+    width: calc(100% - 30px);
+  }
+}
