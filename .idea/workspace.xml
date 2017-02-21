@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="education.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="education.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/html/components/education.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="75">
+              <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -92,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="biography.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="biography.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/html/components/biography.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+            <state relative-caret-position="150">
+              <caret line="10" column="104" selection-start-line="10" selection-start-column="104" selection-end-line="10" selection-end-column="104" />
               <folding />
             </state>
           </provider>
@@ -185,8 +185,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/source/html/components/skills.html" />
         <option value="$PROJECT_DIR$/source/html/components/work-experience.html" />
-        <option value="$PROJECT_DIR$/source/html/components/education.html" />
         <option value="$PROJECT_DIR$/source/html/components/biography.html" />
+        <option value="$PROJECT_DIR$/source/html/components/education.html" />
       </list>
     </option>
   </component>
@@ -897,12 +897,12 @@
       <workItem from="1487596720294" duration="929000" />
       <workItem from="1487598181338" duration="2056000" />
       <workItem from="1487658315036" duration="350000" />
-      <workItem from="1487680771883" duration="7719000" />
+      <workItem from="1487680771883" duration="8283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51801000" />
+    <option name="totallyTimeSpent" value="52365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1332,6 +1332,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/html/components/biography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="104" selection-start-line="10" selection-start-column="104" selection-end-line="10" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/html/components/work-experience.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1342,16 +1350,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/html/components/education.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/html/components/biography.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="87" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
           <folding />
         </state>
       </provider>
