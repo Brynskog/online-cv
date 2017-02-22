@@ -48,9 +48,21 @@ module.exports = function(grunt) {
 
 		copy: {
 			dist:{
-				cwd: 'source/assets',  // set working folder / root to copy
-				src: '**/*',           // copy all files and subfolders
-				dest: 'deploy/assets',    // destination folder
+				cwd: 'source/assets',
+				src: '**/*',
+				dest: 'deploy/assets',
+				expand: true
+			},
+			dist:{
+				cwd: 'source',
+				src: 'robots.txt',
+				dest: 'deploy/',
+				expand: true
+			},
+			dist:{
+				cwd: 'source',
+				src: 'sitemap.xml',
+				dest: 'deploy/',
 				expand: true
 			}
 		},
