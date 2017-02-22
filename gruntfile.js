@@ -52,18 +52,6 @@ module.exports = function(grunt) {
 				src: '**/*',
 				dest: 'deploy/assets',
 				expand: true
-			},
-			dist:{
-				cwd: 'source',
-				src: 'robots.txt',
-				dest: 'deploy/',
-				expand: true
-			},
-			dist:{
-				cwd: 'source',
-				src: 'sitemap.xml',
-				dest: 'deploy/',
-				expand: true
 			}
 		},
 
